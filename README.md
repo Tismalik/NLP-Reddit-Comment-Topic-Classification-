@@ -6,7 +6,6 @@
 <p> A word2vec model was trained using the word in the data, its features were solely used in the training and testing process. BOW & td-idf features were also generated purely for learning purposes. </p>
 <p> Several ML Classification algortihms were then applied to the data to build a model. </p>
 <p>The selected model was a MLP Neural Network with hidden layer(2,3) </p>
-</body>
 
 
 ```
@@ -22,5 +21,7 @@ Classification Report::
 weighted avg       1.00      1.00      1.00       978
 
 ```
- # Confusion Matrix 
-![output](https://user-images.githubusercontent.com/78315034/146198184-95c18a49-8d49-41b0-8f9a-b4fa4b3a3921.png)
+<body style="background-color:white;">
+    <h1>Confusion Matrix </h1>
+    <img src="https://user-images.githubusercontent.com/78315034/146198184-95c18a49-8d49-41b0-8f9a-b4fa4b3a3921.png">
+</body>
