@@ -10,18 +10,17 @@
 
 ```
 Classification Report::
-                  precision    recall  f1-score   support
+              precision    recall  f1-score   support
 
-         neg       1.00      1.00      1.00       379
-         neu       1.00      1.00      1.00       182
-         pos       1.00      1.00      1.00       417
+         neg       0.86      0.82      0.84      1632
+         neu       1.00      1.00      1.00       673
+         pos       0.85      0.88      0.86      1840
 
-    accuracy                           1.00       978
-   macro avg       1.00      1.00      1.00       978
-weighted avg       1.00      1.00      1.00       978
-
+    accuracy                           0.88      4145
+   macro avg       0.90      0.90      0.90      4145
+weighted avg       0.88      0.88      0.88      4145
 ```
 <body style="background-color:white;">
     <h1>Confusion Matrix </h1>
-    <img src="https://user-images.githubusercontent.com/78315034/146198184-95c18a49-8d49-41b0-8f9a-b4fa4b3a3921.png">
+    <img src="https://user-images.githubusercontent.com/78315034/150137255-6950a2c0-049d-4bc2-9a3b-f8114e98c58f.png">
 </body>
